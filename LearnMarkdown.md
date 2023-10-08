@@ -2,9 +2,9 @@
 
   
 
-## Its **Dangerous** out there, take this:
+## Its Dangerous out there, take this:
 
   
-1. Master Sword
-2. Master Bow
-3. Master Staff
+1. Master **Sword**
+2. Master **Bow**
+3. Master **Staff**
