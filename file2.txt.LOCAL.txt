@@ -1,5 +1,6 @@
 Мой второй коммит
 
 Добавил строку чтобы посмотреть как выглядит лог main после rebase
+с двумя коммитами в нем. 
 
-# Lets make a merge conflict!
+# Yay i want a merge conflict!
